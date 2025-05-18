@@ -1,21 +1,43 @@
-# Penjadwalan Kelas Kursus
+# Course Scheduling System
 
-## Deskripsi
-Sistem Penjadwalan Kelas Kursus ini dirancang untuk memudahkan pengelolaan kursus, termasuk pemesanan, verifikasi peserta, dan pengelolaan jadwal. Terdapat tiga peran utama dalam sistem ini: User, Instruktur, dan Admin.
+## 📘 Description  
+The **Course Scheduling System** is designed to facilitate course management, including booking, participant verification, and schedule administration. The system supports three main roles: **User**, **Instructor**, and **Admin**.
 
-## Fitur
+---
 
-### User
-- **Pilih Jadwal Kelas**: Pengguna dapat memilih jadwal kelas yang tersedia.
-- **Pesan Kursus**: Pengguna dapat melakukan pemesanan untuk kursus yang dipilih.
-- **Lihat Detail Kursus**: Pengguna dapat melihat informasi lengkap tentang kursus.
+## 🔧 Features
 
-### Instruktur
-- **Verifikasi Peserta**: Instruktur dapat memverifikasi peserta yang mendaftar.
-- **Lihat Daftar Peserta**: Instruktur dapat melihat daftar peserta yang terdaftar di kelas.
+### 👤 User
+- **Select Class Schedule**  
+  Users can choose from available class schedules.
+  
+- **Book Course**  
+  Users can book a course of their choice.
 
-### Admin
-- **Tambah Kursus**: Admin dapat menambahkan kursus baru ke sistem.
-- **Ubah Jadwal Kursus**: Admin dapat mengubah jadwal kursus yang sudah ada.
-- **Hapus Kursus**: Admin dapat menghapus kursus dari sistem.
-- **Kelola Jadwal**: Admin dapat mengelola semua jadwal kursus (CRUD).
+- **View Course Details**  
+  Users can view complete information about each course.
+
+---
+
+### 🧑‍🏫 Instructor
+- **Verify Participants**  
+  Instructors can verify participants who have registered.
+
+- **View Participant List**  
+  Instructors can see the list of registered participants in their classes.
+
+---
+
+### 👨‍💼 Admin
+- **Add Course**  
+  Admins can add new courses to the system.
+
+- **Edit Course Schedule**  
+  Admins can update the schedule of existing courses.
+
+- **Delete Course**  
+  Admins can remove courses from the system.
+
+- **Manage Schedules (CRUD)**  
+  Admins have full control over course schedules (Create, Read, Update, Delete).
+
